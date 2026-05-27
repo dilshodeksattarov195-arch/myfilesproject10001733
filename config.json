@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrtringify",
+        "uuid": 9966483,
+        "checksum": "ndx14b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
